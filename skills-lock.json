@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "git-commit": {
+      "source": "dinoesau/skills",
+      "sourceType": "github",
+      "skillPath": "skills/git-commit/SKILL.md",
+      "computedHash": "f4a6708fdbfe16e79de298355a99c90fc69c762333538549d11214c59db130ec"
+    }
+  }
+}
