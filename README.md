@@ -4,22 +4,14 @@ Mi colección personal de recetas de cocina.
 
 ## Estructura
 
-```
+```md
 recipes/
-├── appetizers/
-├── soups/
-├── salads/
-├── main-courses/
-│   ├── meat/
-│   ├── poultry/
-│   ├── fish/
-│   └── vegetarian/
-├── sides/
-├── desserts/
-├── breads/
-├── sauces/
-└── drinks/
+└── instant-pot/
 ```
+
+### Colecciones destacadas
+
+- **[`recipes/instant-pot/`](recipes/instant-pot/)** — 35 recetas diseñadas para sacar el máximo provecho físico de la olla a presión eléctrica (Instant Pot): caldos, guisos, chilis, risottos, legumbres y cortes con colágeno. Cada receta incluye el fundamento técnico, ingredientes, procedimiento y contraindicaciones.
 
 ## Contribuir
 
