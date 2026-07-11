@@ -33,14 +33,15 @@ Esta carpeta agrupa platillos que explotan la ventaja única de la olla a presi�
 
 | # | Receta | Qué es | Por qué en Instant Pot |
 |---|--------|--------|------------------------|
-| 1 | [`costillas-vino-tinto/`](costillas-vino-tinto/README.md) | Short ribs braisadas al vino tinto | Colágeno convertido en gelatina en 45–60 min |
-| 2 | [`estofado-de-res/`](estofado-de-res/README.md) | Estofado americano de res con verduras | Trozos grandes + presión = carne jugosa y sabrosa |
-| 3 | [`chili-con-carne-texano/`](chili-con-carne-texano/README.md) | Texas red chili (sin frijoles) | Chiles secos hidratados y carne tierna en 1 h |
-| 4 | [`chili-res-frijoles/`](chili-res-frijoles/README.md) | Chili con trozos de short rib y frijoles rojos | Carne y legumbre cocinadas juntas; almidón espesa la salsa |
-| 5 | [`ragu-bolonesa/`](ragu-bolonesa/README.md) | Salsa boloñesa de cerdo y res | Textura de 3 h de cocción en 30–40 min |
-| 6 | [`chile-verde-cerdo/`](chile-verde-cerdo/README.md) | Chile verde de cerdo (espaldilla) | Colágeno del cerdo en 35–45 min |
-| 7 | [`osso-buco-rabo-toro/`](osso-buco-rabo-toro/README.md) | Rabo de toro u osso buco | Colágeno extremo en ~45 min |
-| 8 | [`manitas-cerdo/`](manitas-cerdo/README.md) | Patas / manitas de cerdo | Máxima gelatinización de tejido conectivo |
+| 1 | [`birria-res/`](birria-res/README.md) | Birria de res en consomé de chiles con tacos | Colágeno → gelatina + chiles concentrados en 50 min; emulsifica el consomé |
+| 2 | [`costillas-vino-tinto/`](costillas-vino-tinto/README.md) | Short ribs braisadas al vino tinto | Colágeno convertido en gelatina en 45–60 min |
+| 3 | [`estofado-de-res/`](estofado-de-res/README.md) | Estofado americano de res con verduras | Trozos grandes + presión = carne jugosa y sabrosa |
+| 4 | [`chili-con-carne-texano/`](chili-con-carne-texano/README.md) | Texas red chili (sin frijoles) | Chiles secos hidratados y carne tierna en 1 h |
+| 5 | [`chili-res-frijoles/`](chili-res-frijoles/README.md) | Chili con trozos de short rib y frijoles rojos | Carne y legumbre cocinadas juntas; almidón espesa la salsa |
+| 6 | [`ragu-bolonesa/`](ragu-bolonesa/README.md) | Salsa boloñesa de cerdo y res | Textura de 3 h de cocción en 30–40 min |
+| 7 | [`chile-verde-cerdo/`](chile-verde-cerdo/README.md) | Chile verde de cerdo (espaldilla) | Colágeno del cerdo en 35–45 min |
+| 8 | [`osso-buco-rabo-toro/`](osso-buco-rabo-toro/README.md) | Rabo de toro u osso buco | Colágeno extremo en ~45 min |
+| 9 | [`manitas-cerdo/`](manitas-cerdo/README.md) | Patas / manitas de cerdo | Máxima gelatinización de tejido conectivo |
 
 ### Pollo y ave
 
