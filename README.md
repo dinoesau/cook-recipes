@@ -12,6 +12,7 @@ recipes/
 ### Colecciones destacadas
 
 - **[`recipes/instant-pot/`](recipes/instant-pot/)** — 35 recetas diseñadas para sacar el máximo provecho físico de la olla a presión eléctrica (Instant Pot): caldos, guisos, chilis, risottos, legumbres y cortes con colágeno. Cada receta incluye el fundamento técnico, ingredientes, procedimiento y contraindicaciones.
+- **[`recipes/lego-meals/`](recipes/lego-meals/)** — 69 componentes modulares altos en proteína para congelar en porciones (bandeja de silicona ½/1 taza + set hermético): cubos base, sopas, proteínas, sides y freezer → air fryer. Se ensamblan libremente en desayunos, bowls y cenas.
 
 ## Utensilios disponibles
 

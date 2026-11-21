@@ -22,6 +22,19 @@ Usar esta información como contexto al crear o adaptar recetas.
 - **Tecnología:** convección forzada (Air Crisp)
 - **Ideal para:** dorar, recalentar crujiente, asar vegetales, deshidratar.
 
+## Moldes y contenedores para lego-meals
+
+- **Bandeja de silicona para freezer (tipo Souper Cubes):**
+  - Porciones marcadas de 1/2 taza (~120 ml) y 1 taza (~240 ml).
+  - Borde rígido + tapa hermética para apilar sin derrames.
+  - Desmolda por flexión; transfiere los cubos a bolsa resellable para liberar el molde.
+  - Ideal para: caldos, guisos, salsas, egg bites, polenta, avena, smoothie packs.
+- **Set hermético de 24 piezas:**
+  - Contenedores cuadrados, redondos y rectangulares + salseros pequeños.
+  - Cierre con pestañas y empaque de silicona; aptos para freezer, microondas y lavavajillas (sin tapa en micro a alta potencia prolongada).
+  - Ideal para: porciones semanales refrigeradas, ensamblado lego (proteína + almidón + verdura), salsas frescas.
+  - Etiqueta cada porción con nombre y fecha; máximo 3 meses en congelador para textura óptima.
+
 ## Horno de microondas
 
 - **Tipo:** horno de microondas doméstico estándar
