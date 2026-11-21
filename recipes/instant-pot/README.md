@@ -75,7 +75,8 @@ Esta carpeta agrupa platillos que explotan la ventaja única de la olla a presi�
 | 1 | [`risotto-hongos/`](risotto-hongos/README.md) | Risotto de hongos | Arroz cremoso sin remover constantemente |
 | 2 | [`risotto-maiz/`](risotto-maiz/README.md) | Risotto de maíz | Almidón y dulzor de las mazorcas en presión |
 | 3 | [`risotto-miso/`](risotto-miso/README.md) | Risotto vegano de miso | Umami del miso + textura mantecosa |
-| 4 | [`arroz-jazmin-basico/`](arroz-jazmin-basico/README.md) | Arroz jazmín básico | Grano suelto y perfumado en 3 min |
+| 4 | [`risotto-poblano/`](risotto-poblano/README.md) | Risotto de chile poblano | Puré de poblano asado, crema y cotija |
+| 5 | [`arroz-jazmin-basico/`](arroz-jazmin-basico/README.md) | Arroz jazmín básico | Grano suelto y perfumado en 3 min |
 
 ### Básicos, desayunos y acompañamientos
 
