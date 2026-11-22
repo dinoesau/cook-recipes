@@ -1,36 +1,33 @@
-# Thursday
+# Thursday — Bizcocho de Avena con Chispas, Albóndigas al Limón & Torta Crujiente
 
-Total aprox: Ella ~113 g / Él ~161 g proteína.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~43 g fibra | Él ~115 g prot, ~54 g fibra.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 5 min (horno / Air Fryer / micro)
 
-Pancakes + smoothie proteico.
-Bases: [pancakes-proteicos-avena-requeson](../../../recipes/lego-meals/pancakes-proteicos-avena-requeson/README.md) + [cubos-smoothie-proteina](../../../recipes/lego-meals/cubos-smoothie-proteina/README.md).
+Bizcocho de avena exprés (*Baked Oats*): plátano triturado + huevo + harina de avena + leche + 1/2 cdta polvo para hornear + chispas de chocolate oscuro → 5 min al horno/Air Fryer a 190 °C (o 90-120 s al micro).
 
-* Ella: 2 pancakes + smoothie (1 cubo + 200 ml leche + 1/2 plátano). ~27 g
-* Él: 3 pancakes + smoothie (2 cubos + 250 ml leche + 1 plátano). ~39 g
-* Licúa 1 min, pancakes recalentados Air Fryer 3 min.
+* Ella: 1 plátano triturado + 1 huevo + 50 g harina de avena + 80 ml leche + 10 g chispas de chocolate + 60 g yogur. ~19 g prot | 9 g fibra
+* Él: 1 plátano grande + 2 huevos + 70 g harina de avena + 100 ml leche + 15 g chispas de chocolate + 80 g yogur. ~28 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío/micro
 
-Yogur + bites + fruta.
+Yogur natural + cacahuate + fruta + egg bite.
 
-* Ella: 200 g yogur + 15 g cacahuate + 1/2 manzana + 1 [egg-bites-queso-clasicos](../../../recipes/lego-meals/egg-bites-queso-clasicos/README.md). ~27 g
-* Él: 250 g yogur + 30 g cacahuate + 1 manzana + 2 bites. ~38 g
+* Ella: 150 g yogur + 15 g cacahuate + 1/2 manzana + 1 [egg-bites-queso-clasicos](../../../recipes/lego-meals/egg-bites-queso-clasicos/README.md). ~18 g prot | 6 g fibra
+* Él: 200 g yogur + 25 g cacahuate + 1 manzana + 2 bites. ~26 g prot | 8 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Albóndigas pollo limón + arroz.
+Albóndigas mediterráneas de pollo al limón y orégano + Base 50/50 (arroz enfriado RS3 + frijol/lenteja) + calabacita.
 Base: [albondigas-pollo-limon](../../../recipes/lego-meals/albondigas-pollo-limon/README.md).
 
-* Ella: 4 albóndigas (~140 g) + 1 taza arroz + calabacita. ~36 g
-* Él: 6 albóndigas (~200 g) + 1.5 taza arroz + calabacita + 1 tortilla. ~50 g
+* Ella: 3 albóndigas (~105 g) + 1/2 taza arroz RS3 + 1/2 taza frijol/lenteja + calabacita. ~27 g prot | 15 g fibra
+* Él: 5 albóndigas (~160 g) + 3/4 taza arroz RS3 + 3/4 taza frijol/lenteja + 1 tortilla. ~37 g prot | 20 g fibra
 * Micro 3 min con 1 cda agua, limón después.
 
-## Cena - casa, se cocina 25 min
+## Cena - casa, Air Fryer o sartén 12 min
 
-Albóndigas al sartén + ensalada + tortilla.
+Sub / Torta caliente de albóndigas gratinadas en bolillo (o wraps en tortilla) al Air Fryer + ensalada de nopal y repollo.
 
-* Ella: 3 albóndigas (~100 g) + 2 tortillas + ensalada + limón. ~23 g
-* Él: 5 albóndigas (~150 g) + 3 tortillas + ensalada. ~34 g
-* Sartén 8 min para dorar, parte a la mitad para verificar cocción.
+* Ella: 2 albóndigas partidas + 1 bolillo chico (o 2 tortillas) + 20 g Oaxaca + salsa tomate + ensalada nopal. ~18 g prot | 13 g fibra
+* Él: 3 albóndigas + 1 bolillo + 30 g Oaxaca + salsa + ensalada nopal. ~24 g prot | 16 g fibra

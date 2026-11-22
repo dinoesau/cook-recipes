@@ -1,35 +1,33 @@
-# Friday
+# Friday — Overnight Oats, Burritos & Chimichangas Air Fryer
 
-Total aprox: Ella ~110 g / Él ~156 g proteína.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~45 g fibra | Él ~114 g prot, ~56 g fibra.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 0 min (listo en refri)
 
-Avena manzana canela.
-Base: [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/README.md) + [cubos-smoothie-proteina](../../../recipes/lego-meals/cubos-smoothie-proteina/README.md) opcional.
+Overnight Oats manzana-canela con leche, yogur, linaza y cacahuate.
+Base: [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/README.md).
 
-* Ella: 60 g avena + 200 ml leche + 1/2 manzana + 100 g yogur. ~24 g
-* Él: 80 g avena + 250 ml leche + 1 manzana + 150 g yogur + 15 g cacahuate. ~36 g
+* Ella: 50 g avena + 150 ml leche + 100 g yogur + 1 cda linaza + 1/2 manzana + 15 g cacahuate. ~19 g prot | 10 g fibra
+* Él: 75 g avena + 200 ml leche + 150 g yogur + 1 cda linaza + 1 manzana + 25 g cacahuate. ~27 g prot | 13 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Huevo duro + cottage + tostadas.
+Huevo duro de batch + requesón fresco + tortillas tostadas y pepino.
 
-* Ella: 2 huevos + 150 g cottage + pepino + 1 tostada. ~26 g
-* Él: 3 huevos + 200 g cottage + 2 tostadas + 1/2 aguacate. ~36 g
+* Ella: 2 huevos + 60 g requesón + pepino + 1 tortilla tostada. ~20 g prot | 5 g fibra
+* Él: 2 huevos + 100 g requesón + pepino + 2 tortillas tostadas. ~26 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Burritos res frijol.
+Burritos de res y frijol negro + arroz RS3 y pico de gallo.
 Base: [burritos-res-frijol](../../../recipes/lego-meals/burritos-res-frijol/README.md).
 
-* Ella: 1 burrito (~150 g relleno) + ensalada lechuga/jitomate. ~34 g
-* Él: 1.5 burritos (~220 g relleno) + ensalada + 1 tortilla extra. ~48 g
-* Micro 2:30 min envuelto en servilleta húmeda, salsa después.
+* Ella: 1 burrito (~140 g relleno carne-frijol) + 1/2 taza arroz RS3 + ensalada repollo/jitomate. ~26 g prot | 16 g fibra
+* Él: 1.5 burritos (~200 g relleno) + 1/2 taza arroz RS3 + ensalada. ~36 g prot | 21 g fibra
 
-## Cena - casa, se cocina 20 min
+## Cena - casa, Air Fryer 8 min
 
-Burrito dorado Air Fryer / sartén.
+Chimichanga casera (burrito barnizado con gotita de aceite y dorado a 200 °C en Ninja Air Fryer hasta crujir) bañada en salsa verde y requesón + nopal asado.
 
-* Ella: 1 burrito + 30 g Oaxaca + salsa. ~26 g
-* Él: 1.5 burrito + 50 g Oaxaca. ~36 g
-* Air Fryer 200 °C 6 min o sartén 3 min por lado.
+* Ella: 1 chimichanga + 25 g requesón + salsa verde + 1 taza nopal asado. ~18 g prot | 14 g fibra
+* Él: 1.5 chimichangas + 40 g requesón + salsa verde + 1.5 taza nopal. ~25 g prot | 17 g fibra

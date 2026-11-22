@@ -1,37 +1,36 @@
-# Sunday
+# Sunday — Parfait de Frutos Rojos o Toast de Huevo & Ajiaco Colombiano
 
-Total aprox: Ella ~102 g / Él ~140 g.
+Total aprox (1.6 g/kg): Ella ~80 g prot, ~43 g fibra | Él ~112 g prot, ~53 g fibra.
 
-Hoy batch grande. Almuerzo y comida pueden comerse en casa en tupper.
+Hoy comida reconfortante en Instant Pot + batch de 90 min para semana 2.
 
-## Desayuno - casa, rápido
+## Desayuno - casa, 2 min
 
-Tacos huevo-papa.
+Parfait de yogur y frutos rojos tibios al microondas con granola (o Toast de huevo cocido triturado con chía).
 
-* Ella: 2 huevos + 1 taza papa + 2 tortillas + 30 g panela. ~26 g
-* Él: 3 huevos + 1.5 taza papa + 3 tortillas + 50 g panela. ~40 g
+* Ella: 150 g yogur + 45 g granola + 70 g frutos rojos al micro 45 s + 1 cda chía + 15 g cacahuate. ~19 g prot | 10 g fibra
+* Él: 200 g yogur + 65 g granola + 100 g frutos rojos al micro 45 s + 1 cda chía + 25 g cacahuate. ~27 g prot | 13 g fibra
 
 ## Almuerzo - tupper frío
 
-Yogur + papaya + cacahuate.
+Yogur natural + fruta + 1 huevo duro de batch + cacahuate.
 
-* Ella: 200 g yogur + papaya + 15 g cacahuate. ~22 g
-* Él: 250 g yogur + papaya + 30 g cacahuate. ~29 g
+* Ella: 120 g yogur + 1 huevo duro + fruta + 15 g cacahuate. ~16 g prot | 6 g fibra
+* Él: 150 g yogur + 2 huevos duros + fruta + 20 g cacahuate. ~23 g prot | 8 g fibra
 
-## Comida - tupper micro
+## Comida - casa, Instant Pot 20 min
 
-Caldo pollo + arroz + verdura. En termo o hermético.
+Ajiaco / Estofado colombiano de pollo, papa y tomate en Instant Pot + arroz blanco y garbanzo/frijol.
+Base: [ajiaco-pollo](../../../recipes/instant-pot/ajiaco-pollo/README.md).
 
-* Ella: 100 g muslo + 1 taza caldo + 1 taza arroz + zanahoria. ~32 g
-* Él: 150 g muslo + 1.5 taza caldo + 1.5 taza arroz. ~45 g
-* Micro 3 min sin tapa hermética.
+* Ella: 85 g pollo deshebrado en su caldo espeso de papa y tomate + 1/2 taza arroz + 1/3 taza garbanzo/frijol + cilantro. ~27 g prot | 15 g fibra
+* Él: 125 g pollo en caldo de papa + 3/4 taza arroz + 1/2 taza garbanzo/frijol. ~38 g prot | 19 g fibra
 
 ## Cena - casa, se cocina + batch
 
-Egg bites + ensalada + tostadas. Ver [egg-bites-cottage-pavo](../../../recipes/lego-meals/egg-bites-cottage-pavo/README.md).
+Egg bites de requesón recién horneados + ensalada de nopal y frijol + tortillas tostadas. Ver [egg-bites-cottage-pavo](../../../recipes/lego-meals/egg-bites-cottage-pavo/README.md).
 
-* Ella: 3 bites + 2 tostadas + fruta. ~22 g
-* Él: 5 bites + 3 tostadas. ~32 g
-* Hornea 12-18 bites extra para almuerzos Lun-Vie.
+* Ella: 2 bites + 1/2 taza frijol + ensalada nopal + 2 tortillas tostadas. ~18 g prot | 12 g fibra
+* Él: 3 bites + 3/4 taza frijol + ensalada nopal + 3 tortillas tostadas. ~25 g prot | 15 g fibra
 
-Tarea noche: batch domingo en [week-one](../README.md). Arma 2 tuppers por persona para lunes.
+Tarea noche: batch domingo de [week-two](../README.md) (taco mix, chili, falafel, pancakes de harina de avena congelados, huevos duros, cubos smoothie, arroz y papa).

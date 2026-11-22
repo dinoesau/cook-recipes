@@ -1,38 +1,35 @@
-# Sunday - caldo + batch cierre de mes
+# Sunday — Parfait de Frutos Rojos o Toast de Huevo & Sopa Minestrone Italiana
 
-Total aprox: Ella ~98 g / Él ~136 g proteína.
+Total aprox (1.6 g/kg): Ella ~81 g prot, ~43 g fibra | Él ~113 g prot, ~53 g fibra.
 
-Día de caldo limpia-refri y batch para el mes siguiente. Todo lo fresco que quede se va a la olla.
+Día de Sopa Minestrone italiana limpia-refri y batch para el mes siguiente.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 2 min
 
-Granola o avena con lo que quede.
-Granola: [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-airfryer/README.md). Avena: [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/README.md).
+Parfait de yogur y frutos rojos tibios al microondas con granola (o Toast de huevo cocido triturado con chía).
+Granola: [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-airfryer/README.md).
 
-* Ella: 200 g yogur + 50 g granola o 60 g avena + fruta sobrante. ~24 g
-* Él: 250 g yogur + 70 g granola o 80 g avena + fruta. ~32 g
+* Ella: 150 g yogur + 45 g granola + 70 g frutos rojos al micro 45 s + 15 g cacahuate + 1 cda chía. ~19 g prot | 10 g fibra
+* Él: 200 g yogur + 65 g granola + 100 g frutos rojos al micro 45 s + 25 g cacahuate + 1 cda chía. ~27 g prot | 13 g fibra
 
 ## Almuerzo - casa, ligero
 
-Yogur chico + huevo duro si hay, o smoothie último.
-Smoothie: [cubos-smoothie-proteina](../../../recipes/lego-meals/cubos-smoothie-proteina/README.md).
+Yogur natural + huevo duro de batch + cacahuate.
 
-* Ella: 150 g yogur + 1 huevo duro o 1 cubo smoothie. ~18 g
-* Él: 200 g yogur + 2 huevos o 2 cubos. ~26 g
+* Ella: 100 g yogur + 1 huevo duro + 15 g cacahuate. ~16 g prot | 4 g fibra
+* Él: 150 g yogur + 2 huevos duros + 25 g cacahuate. ~25 g prot | 6 g fibra
 
-## Comida - casa, olla 30 min
+## Comida - casa, olla 25 min
 
-Caldo limpia-refri: verdura sobrante + frijol + arroz + restos de pollo o res.
-Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
+Sopa Minestrone italiana: caldo de tomate y hierbas con frijol/garbanzo, pasta corta, zanahoria, calabacita, espinaca/repollo y pollo o res deshebrada.
+Base: [sopa-minestrone-cubos](../../../recipes/lego-meals/sopa-minestrone-cubos/README.md).
 
-* Ella: 2 tazas caldo con 100 g proteína + 1/2 taza arroz. ~30 g
-* Él: 3 tazas caldo con 150 g proteína + 1 taza arroz. ~42 g
-* Si no hay proteína suficiente, rompe 2 huevos por plato en el caldo hirviendo.
+* Ella: 2 tazas minestrone con 75 g proteína + 1/2 taza frijol/garbanzo + pasta. ~25 g prot | 15 g fibra
+* Él: 3 tazas minestrone con 110 g proteína + 3/4 taza frijol/garbanzo + pasta. ~35 g prot | 19 g fibra
 
-## Cena - casa, caldo + batch
+## Cena - casa, minestrone + batch mes siguiente
 
-Repite caldo de la comida + arranca batch del mes: frijol en Instant Pot, arroz en arrocera, hashbrown al horno y smoothie cubos al congelador.
+Repite Sopa Minestrone con queso gratinado y tostadas + arranca batch de `week-one`: **Birria de chamberete en Instant Pot**, pollo para tinga/taquitos, frijol negro, arroz en arrocera, papa con cáscara al Air Fryer, pancakes de harina de avena congelados y huevos duros.
 
-* Ella: 1.5 taza caldo + 80 g proteína. ~26 g
-* Él: 2 taza caldo + 120 g proteína. ~36 g
-* Congela 4-6 porciones de guisos en Souper Cubes etiquetadas para arrancar el mes sin cocinar de cero.
+* Ella: 1.5 taza minestrone + 60 g proteína + 1/3 taza frijol + 1 tostada. ~21 g prot | 14 g fibra
+* Él: 2 tazas minestrone + 90 g proteína + 1/2 taza frijol + 2 tostadas. ~27 g prot | 17 g fibra

@@ -1,34 +1,34 @@
-# Thursday
+# Thursday — Parfait de Yogur y Frutos Rojos, Chile Verde de Cerdo & Enchiladas
 
-Total aprox: Ella ~104 g / Él ~142 g.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~44 g fibra | Él ~114 g prot, ~55 g fibra.
 
-## Desayuno - casa, rápido 15 min
+## Desayuno - casa, 2 min (frutos rojos al micro 45 s)
 
-Tacos huevo-frijol.
-Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
+Parfait de yogur y frutos rojos: mete los frutos rojos congelados 45-60 s al microondas hasta que suelten jugo tipo mermelada tibia, arma capas de yogur, [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-airfryer/README.md) y chía, y corona con los frutos rojos (+ 1 egg bite al micro).
 
-* Ella: 2 huevos + 1/2 taza frijol + 2 tortillas + 30 g panela. ~29 g
-* Él: 3 huevos + 3/4 taza frijol + 3 tortillas + 50 g panela. ~44 g
+* Ella: 150 g yogur + 45 g granola casera + 70 g frutos rojos tibios + 1 cda chía + 1 egg bite. ~19 g prot | 9 g fibra
+* Él: 200 g yogur + 65 g granola casera + 100 g frutos rojos tibios + 1 cda chía + 2 egg bites. ~28 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper frío
 
-Panela + huevo duro + tostadas + jitomate. Sin micro.
+Panela/requesón + huevo duro de batch + tortillas tostadas + jitomate. Sin micro.
 
-* Ella: 50 g panela + 1 huevo duro + 2 tostadas + jitomate. ~20 g
-* Él: 80 g panela + 2 huevos duros + 3 tostadas. ~30 g
+* Ella: 50 g panela + 1 huevo duro + 2 tortillas tostadas + jitomate/pepino. ~18 g prot | 5 g fibra
+* Él: 70 g panela + 2 huevos duros + 3 tortillas tostadas + verdura. ~27 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper micro
 
-Cerdo salsa verde + arroz + frijol.
-Base: [pollo-salsa-verde](../../../recipes/lego-meals/pollo-salsa-verde/README.md) aplicado a cerdo, o [chile-verde-cerdo](../../../recipes/instant-pot/chile-verde-cerdo/README.md).
+Chile verde de cerdo en salsa de tomatillo + Base 50/50 (arroz enfriado RS3 + frijol negro).
+Base: [chile-verde-cerdo](../../../recipes/instant-pot/chile-verde-cerdo/README.md).
 
-* Ella: 120 g cerdo + 1 taza arroz + 1/2 taza frijol. ~38 g
-* Él: 170 g cerdo + 1.5 taza arroz + 3/4 taza frijol. ~53 g
-* Micro 3 min, salsa protege del secado.
+* Ella: 100 g cerdo salsa verde + 1/2 taza arroz RS3 + 1/2 taza frijol + calabacita. ~26 g prot | 17 g fibra
+* Él: 140 g cerdo salsa verde + 3/4 taza arroz RS3 + 3/4 taza frijol + 1 tortilla. ~36 g prot | 22 g fibra
+* Micro 3 min.
 
-## Cena - casa, se cocina
+## Cena - casa, horno o Air Fryer 15 min
 
-Quesadilla panela-frijol + calabaza Air Fryer.
+Enchiladas de pollo a presión gratinadas con queso Oaxaca + ensalada de nopal.
+Base: [enchiladas-pollo](../../../recipes/instant-pot/enchiladas-pollo/README.md).
 
-* Ella: 2 tortillas + 60 g panela + 1/2 taza frijol. ~23 g
-* Él: 3 tortillas + 80 g panela + 3/4 taza frijol. ~30 g
+* Ella: 2 enchiladas rellenas de pollo (50 g) bañadas en salsa chipotle-tomate + 25 g Oaxaca + nopal. ~18 g prot | 13 g fibra
+* Él: 3 enchiladas (75 g pollo) + 35 g Oaxaca + 1.5 taza nopal. ~24 g prot | 16 g fibra

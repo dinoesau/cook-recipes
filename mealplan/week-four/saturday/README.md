@@ -1,40 +1,35 @@
-# Saturday
+# Saturday — Licuado de Cubos Smoothie, Pollo al Ajillo & Burgers de Cakes de Atún
 
-Total aprox: Ella ~102 g / Él ~140 g proteína.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~44 g fibra | Él ~114 g prot, ~55 g fibra.
 
-Día flexible: pollo simple + frijol de batch, sin guiso pesado.
+## Desayuno - casa, 1 min (licuadora)
 
-## Desayuno - casa, 20 min
+Licuado rápido con cubos de smoothie congelados, leche y avena.
+Base: [cubos-smoothie-proteina](../../../recipes/lego-meals/cubos-smoothie-proteina/README.md).
 
-Huevo + hashbrown de fin de semana.
-Papa: [hashbrown-papa-molde](../../../recipes/lego-meals/hashbrown-papa-molde/README.md).
-
-* Ella: 2 huevos + 1 hashbrown + 1/2 taza frijol + salsa. ~24 g
-* Él: 3 huevos + 2 hashbrown + 3/4 taza frijol. ~36 g
-* Hashbrown a Air Fryer 200 °C 5-6 min para revivir lo crujiente.
+* Ella: 1.5 cubos smoothie + 250 ml leche + 35 g avena + 1 cda linaza. ~20 g prot | 10 g fibra
+* Él: 2 cubos smoothie + 350 ml leche + 55 g avena + 1 cda linaza. ~28 g prot | 13 g fibra
 
 ## Almuerzo - casa o fuera, ligero
 
-Yogur + fruta + granola si hay.
+Yogur natural + fruta + granola casera.
 Granola: [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-airfryer/README.md).
 
-* Ella: 200 g yogur + 30 g granola. ~22 g
-* Él: 250 g yogur + 50 g granola + 1 plátano. ~30 g
+* Ella: 150 g yogur + 30 g granola. ~16 g prot | 6 g fibra
+* Él: 200 g yogur + 50 g granola + 1 plátano. ~22 g prot | 8 g fibra
 
-## Comida - casa, se cocina 30 min
+## Comida - casa, sartén 20 min
 
-Pollo simple a la plancha + frijol + arroz.
+Pollo al ajillo, orégano y limón a la plancha + Base 50/50 (arroz cilantro-limón RS3 + frijol negro) + ensalada fresca de repollo.
 Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md). Arroz: [arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md).
 
-* Ella: 120 g pollo + 1 taza arroz + 1/2 taza frijol. ~36 g
-* Él: 170 g pollo + 1.5 taza arroz + 3/4 taza frijol. ~50 g
-* Solo sal, ajo y limón: la idea es descansar de salsas fuertes.
+* Ella: 90 g pollo + 1/2 taza arroz RS3 + 1/2 taza frijol + 1 taza repollo con limón. ~26 g prot | 15 g fibra
+* Él: 130 g pollo + 3/4 taza arroz RS3 + 3/4 taza frijol + 1.5 taza repollo. ~36 g prot | 19 g fibra
 
-## Cena - casa, se cocina 25 min
+## Cena - casa, sartén + Air Fryer 15 min
 
-Cakes de atún + papa.
-Base: [cakes-atun-hierbas](../../../recipes/lego-meals/cakes-atun-hierbas/README.md).
+Burgers o Tostadas de Cakes de Atún y hierbas con garbanzo machacado + hashbrown crujiente al Air Fryer y ensalada.
+Bases: [cakes-atun-hierbas](../../../recipes/lego-meals/cakes-atun-hierbas/README.md) + [hashbrown-papa-molde](../../../recipes/lego-meals/hashbrown-papa-molde/README.md).
 
-* Ella: 2 cakes + 1 papa/hashbrown + ensalada. ~20 g
-* Él: 2 cakes + 1 lata atún extra en ensalada + 2 porciones papa. ~24 g
-* Si sobran cakes, congela en Souper Cubes para el mes siguiente.
+* Ella: 2 cakes + 1 hashbrown + ensalada nopal/repollo. ~20 g prot | 13 g fibra
+* Él: 3 cakes + 2 hashbrowns + ensalada nopal/repollo. ~28 g prot | 16 g fibra

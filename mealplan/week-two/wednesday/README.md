@@ -1,37 +1,34 @@
-# Wednesday
+# Wednesday — Parfait de Yogur y Frutos Rojos & Butter Chicken / Pollo Garbanzos Masala
 
-Total aprox: Ella ~112 g / Él ~160 g proteína.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~44 g fibra | Él ~115 g prot, ~55 g fibra.
 
-## Desayuno - casa, rápido 15 min
+## Desayuno - casa, 2 min (frutos rojos al micro 45 s)
 
-Huevo revuelto + frijol batch.
-Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
+Parfait de yogur y frutos rojos: mete los frutos rojos congelados 45-60 s al microondas hasta que suelten jugo tipo mermelada tibia, arma capas de yogur, [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-airfryer/README.md) y chía, y corona con los frutos rojos (+ 1 egg bite).
 
-* Ella: 2 huevos + 1/2 taza frijol + 2 tortillas + 30 g panela + salsa. ~26 g
-* Él: 3 huevos + 3/4 taza frijol + 3 tortillas + 50 g panela. ~38 g
-* Sartén 5 min, frijol recalentado con caldito.
+* Ella: 150 g yogur + 45 g granola casera + 70 g frutos rojos tibios + 1 cda chía + 1 egg bite. ~19 g prot | 9 g fibra
+* Él: 200 g yogur + 65 g granola casera + 100 g frutos rojos tibios + 1 cda chía + 2 egg bites. ~28 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Sándwich pavo taco frío + queso.
+Tostadas o wrap frío de taco mix + panela y pico de gallo.
 
-* Ella: 2 rebanadas pan integral + 80 g [pavo-molido-taco](../../../recipes/lego-meals/pavo-molido-taco/README.md) frío + 30 g panela + lechuga/jitomate. ~28 g
-* Él: 2 rebanadas + 130 g pavo + 50 g panela + 1 yogur 100 g. ~40 g
-* Frío directo, pan aparte si quieres crujiente.
+* Ella: 2 tortillas tostadas + 60 g [pavo-molido-taco](../../../recipes/lego-meals/pavo-molido-taco/README.md) + 20 g panela + lechuga/jitomate. ~19 g prot | 7 g fibra
+* Él: 3 tortillas tostadas + 90 g taco mix + 35 g panela. ~27 g prot | 10 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Curry pollo coco + arroz (batch Mie noche anterior o refill).
-Base: [curry-rojo-pollo-coco](../../../recipes/lego-meals/curry-rojo-pollo-coco/README.md).
+Pollo con Garbanzos Masala / Butter Chicken en Instant Pot + arroz enfriado RS3.
+Bases: [pollo-garbanzos-masala](../../../recipes/instant-pot/pollo-garbanzos-masala/README.md) / [butter-chicken](../../../recipes/instant-pot/butter-chicken/README.md).
 
-* Ella: 130 g pollo con salsa + 1 taza arroz + brócoli. ~34 g
-* Él: 180 g pollo + 1.5 taza arroz + brócoli + 1 tortilla. ~48 g
-* Micro 2:30 min, salsa extra aparte si espesa.
+* Ella: 100 g pollo masala con 1/2 taza garbanzos en su salsa + 3/4 taza arroz RS3 + zanahoria/calabacita. ~26 g prot | 16 g fibra
+* Él: 140 g pollo masala con 3/4 taza garbanzos + 1 taza arroz RS3 + 1 tortilla. ~36 g prot | 21 g fibra
+* Micro 2:30 min, cilantro fresco encima.
 
-## Cena - casa, se cocina 25 min
+## Cena - casa, se cocina 15 min + refill
 
-Bowl curry + verdura salteada.
+Tortillas/pan plano tostado al sartén con ajo y cilantro (estilo Naan rápido) para cucharear Butter Chicken / Pollo Masala + ensalada fresca de pepino y yogur.
 
-* Ella: 100 g curry + 1 taza mezcla campesina salteada + 1/2 taza arroz. ~24 g
-* Él: 150 g curry + 1.5 taza verdura + 1 taza arroz. ~34 g
-* Sartén 8 min verdura, curry a fuego bajo 5 min.
+* Ella: 70 g pollo masala con garbanzos + 2 tortillas al ajo + ensalada pepino/repollo. ~17 g prot | 12 g fibra
+* Él: 100 g pollo masala con garbanzos + 3 tortillas al ajo + ensalada. ~24 g prot | 15 g fibra
+* En paralelo: refill 40 min para Jue-Vie (albóndigas al limón + burritos).

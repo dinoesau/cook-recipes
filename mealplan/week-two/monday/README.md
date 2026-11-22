@@ -1,38 +1,35 @@
-# Monday
+# Monday — Pancakes de Harina de Avena, Taco Bowl & Sincronizadas/Gringas
 
-Total aprox: Ella ~113 g / Él ~160 g proteína.
+Total aprox (1.6 g/kg): Ella ~83 g prot, ~44 g fibra | Él ~116 g prot, ~55 g fibra.
 
-## Desayuno - casa, rápido 15 min
+## Desayuno - casa, 2 min (batch congelado → micro 90 s o Air Fryer 3 min)
 
-Pancakes proteicos de batch + miel.
+Pancakes de harina de avena (hechos en batch el domingo y congelados) + yogur natural y plátano encima.
 Base: [pancakes-proteicos-avena-requeson](../../../recipes/lego-meals/pancakes-proteicos-avena-requeson/README.md).
 
-* Ella: 3 pancakes + 100 g yogur + 1 cdta miel + 1/2 plátano. ~26 g
-* Él: 4 pancakes + 150 g yogur + 1 cdta miel + 1 plátano. ~38 g
-* Sartén antiadherente 3 min por lado, recalienta batch en Air Fryer 180 °C 3 min.
+* Ella: 3 pancakes de harina de avena + 80 g yogur + 1/2 plátano + 1 cda linaza. ~20 g prot | 10 g fibra
+* Él: 4 pancakes de harina de avena + 120 g yogur + 1 plátano + 1 cda linaza. ~28 g prot | 13 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío/micro
 
-Yogur + egg bites. Arma noche anterior.
+Yogur natural + cacahuate + egg bites.
 Bites: [egg-bites-queso-clasicos](../../../recipes/lego-meals/egg-bites-queso-clasicos/README.md).
 
-* Ella: 200 g yogur + 1/2 plátano + 15 g cacahuate + 1 bite. ~27 g
-* Él: 250 g yogur + 1 plátano + 30 g cacahuate + 2 bites. ~38 g
-* Frío directo, o micro 1 min solo bites.
+* Ella: 150 g yogur + 1/2 plátano + 15 g cacahuate + 1 bite. ~18 g prot | 5 g fibra
+* Él: 200 g yogur + 1 plátano + 25 g cacahuate + 2 bites. ~26 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Bowl pavo taco + arroz + frijol.
+Taco Bowl de cerdo magro y lenteja + Base 50/50 (arroz enfriado RS3 + frijol negro) + pico de gallo y repollo.
 Base: [pavo-molido-taco](../../../recipes/lego-meals/pavo-molido-taco/README.md) + [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
 
-* Ella: 120 g pavo + 1 taza arroz + 1/2 taza frijol + lechuga/jitomate. ~36 g
-* Él: 170 g pavo + 1.5 taza arroz + 3/4 taza frijol + 1 tortilla extra. ~50 g
-* Micro 2:30 min tapa floja + 1 cda agua.
+* Ella: 100 g taco mix + 1/2 taza arroz RS3 + 1/2 taza frijol + 1 taza repollo/pico de gallo. ~27 g prot | 17 g fibra
+* Él: 140 g taco mix + 3/4 taza arroz RS3 + 3/4 taza frijol + 1 tortilla extra. ~38 g prot | 22 g fibra
+* Micro 2:30 min tapa floja + 1 cda agua + limón al servir.
 
-## Cena - casa, se cocina 20 min
+## Cena - casa, se cocina 15 min
 
-Tacos pavo al sartén + nopal.
+Sincronizadas / Gringas de carne adobada y queso Oaxaca doradas al comal + nopal asado.
 
-* Ella: 80 g pavo + 2 tortillas + 20 g Oaxaca + nopal/jitomate. ~24 g
-* Él: 120 g pavo + 3 tortillas + 40 g Oaxaca. ~34 g
-* Sartén caliente 5 min para dorar pavo, tortilla directo al fuego.
+* Ella: 2 tortillas + 60 g taco mix + 25 g Oaxaca + piña/cebolla/cilantro + 1 taza nopal. ~18 g prot | 12 g fibra
+* Él: 3 tortillas + 90 g taco mix + 35 g Oaxaca + 1.5 taza nopal. ~24 g prot | 15 g fibra

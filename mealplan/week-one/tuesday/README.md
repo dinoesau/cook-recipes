@@ -1,34 +1,35 @@
-# Tuesday
+# Tuesday — Toast de Huevo con Chía, Tinga al Chipotle & Taquitos en Adobo
 
-Total aprox: Ella ~108 g / Él ~148 g.
+Total aprox (1.6 g/kg): Ella ~83 g prot, ~45 g fibra | Él ~115 g prot, ~56 g fibra.
 
-## Desayuno - casa, tupper overnight
+## Desayuno - casa, 2 min (huevo triturado la noche anterior)
 
-Avena hecha noche anterior. Ver [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/README.md).
+Toast de huevo cocido triturado y semillas de chía: pan integral tostado + huevo duro de batch triturado desde la noche anterior (con 2 cdas de yogur/requesón, sal, pimienta y limón) + 1 cda de semillas de chía encima.
 
-* Ella: 40 g avena + 150 g yogur + 200 ml leche + 1/2 plátano + 15 g cacahuate. ~24 g
-* Él: 60 g avena + 200 g yogur + 250 ml leche + 1 plátano + 30 g cacahuate. ~33 g
-* Come en casa en el mismo contenedor, sin cocinar.
+* Ella: 2 rebanadas pan integral tostado + 2 huevos duros triturados con 30 g yogur/requesón + 1 cda chía encima. ~21 g prot | 9 g fibra
+* Él: 3 rebanadas pan integral tostado + 3 huevos duros triturados con 45 g yogur/requesón + 1 cda chía encima. ~30 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper frío
 
-Huevo duro + cottage + tostadas. No necesita micro.
+Requesón fresco + fruta + cacahuate.
 
-* Ella: 2 huevos duros + 80 g cottage + 2 tostadas + pepino. ~24 g
-* Él: 3 huevos duros + 120 g cottage + 3 tostadas. ~33 g
+* Ella: 100 g requesón + 1 manzana + 15 g cacahuate. ~17 g prot | 6 g fibra
+* Él: 140 g requesón + 1 manzana + 25 g cacahuate. ~24 g prot | 8 g fibra
 
 ## Comida - trabajo, tupper micro
 
-Picadillo papa + frijol.
-Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
+Tinga de pollo al chipotle + Base 50/50 (arroz enfriado RS3 + frijol negro) + calabacita/repollo.
+Base: [tinga-pollo](../../../recipes/lego-meals/tinga-pollo/README.md) + [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
 
-* Ella: 120 g picadillo + 150 g papa + 1/2 taza frijol. ~40 g
-* Él: 170 g picadillo + 250 g papa + 3/4 taza frijol. ~55 g
-* Micro 2-3 min.
+* Ella: 95 g tinga + 1/2 taza arroz RS3 + 1/2 taza frijol + 1 taza verdura. ~26 g prot | 17 g fibra
+* Él: 135 g tinga + 3/4 taza arroz RS3 + 3/4 taza frijol + 1.5 taza verdura. ~36 g prot | 22 g fibra
+* Micro 2:30 min + jugo de limón al servir.
 
-## Cena - casa, se cocina
+## Cena - casa, Air Fryer 10 min
 
-Tacos de huevo con calabacita salteada.
+Taquitos crujientes de pollo en adobo de guajillo y ancho al Air Fryer + cama de repollo, nopal y requesón.
+Base: [taquitos-pollo-adobo](../../../recipes/lego-meals/taquitos-pollo-adobo/README.md).
 
-* Ella: 2 huevos + 2 tortillas + 30 g panela + calabacita. ~22 g
-* Él: 3 huevos + 3 tortillas + 50 g panela. ~32 g
+* Ella: 2 taquitos en adobo + 30 g requesón + 1.5 taza repollo/nopal con salsa verde. ~19 g prot | 13 g fibra
+* Él: 3 taquitos en adobo + 45 g requesón + 2 tazas repollo/nopal. ~25 g prot | 16 g fibra
+* Ninja Air Fryer a 175 °C 10 min directo del refri/congelador.

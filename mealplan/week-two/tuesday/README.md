@@ -1,37 +1,35 @@
-# Tuesday
+# Tuesday — Toast de Huevo con Chía, Papa Rellena de Chili & Falafel Air Fryer
 
-Total aprox: Ella ~108 g / Él ~151 g proteína.
+Total aprox (1.6 g/kg): Ella ~82 g prot, ~46 g fibra | Él ~114 g prot, ~57 g fibra.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 2 min (huevo triturado la noche anterior)
 
-Avena manzana canela + yogur.
-Base: [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/README.md).
+Toast de huevo cocido triturado y semillas de chía: pan integral tostado + huevo duro de batch triturado desde la noche anterior (con yogur/requesón, sal y limón) + 1 cda de chía encima.
 
-* Ella: 60 g avena + 200 ml leche + 1/2 manzana + 100 g yogur + canela. ~24 g
-* Él: 80 g avena + 250 ml leche + 1 manzana + 150 g yogur. ~34 g
-* Micro 2 min o olla 5 min, agrega yogur al servir.
+* Ella: 2 rebanadas pan integral tostado + 2 huevos duros triturados con 30 g yogur/requesón + 1 cda chía. ~21 g prot | 9 g fibra
+* Él: 3 rebanadas pan integral tostado + 3 huevos duros triturados con 45 g yogur/requesón + 1 cda chía. ~30 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Huevo duro + cottage + pepino.
+Requesón fresco + pepino/zanahoria + cacahuate y fruta.
 
-* Ella: 2 huevos duros + 150 g cottage + pepino/jitomate + 1 tostada. ~26 g
-* Él: 3 huevos duros + 200 g cottage + 2 tostadas. ~36 g
-* Frío directo, sal + limón en trabajo.
+* Ella: 100 g requesón + pepino/jitomate + 15 g cacahuate + 1/2 manzana. ~17 g prot | 6 g fibra
+* Él: 140 g requesón + verdura + 25 g cacahuate + 1 manzana. ~24 g prot | 8 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Chili carne + papa de batch.
+*Loaded Baked Potato* (Papa con cáscara en cubos Air Fryer cubierta con Chili con carne y frijoles negros + toque de queso).
 Base: [chili-carne-clasico](../../../recipes/lego-meals/chili-carne-clasico/README.md).
 
-* Ella: 1.5 taza chili (~200 g) + 1 taza papa Air Fryer. ~32 g
-* Él: 2 tazas chili (~300 g) + 1.5 taza papa + 1 tortilla. ~45 g
-* Micro 3 min tapa floja, revuelve a la mitad.
+* Ella: 1.25 taza chili (~180 g) sobre 1 taza papa Air Fryer con cáscara + cebollín/repollo. ~26 g prot | 18 g fibra
+* Él: 1.75 taza chili (~250 g) sobre 1.5 taza papa con cáscara + 1 tortilla. ~37 g prot | 24 g fibra
+* Micro 3 min tapa floja.
 
-## Cena - casa, se cocina 20 min
+## Cena - casa, Air Fryer 10 min
 
-Quesadilla chili + ensalada.
+Plato Medio Oriente: Falafel crujiente de garbanzo en Air Fryer + huevo duro o pollo + aderezo de yogur, ajo y limón + ensalada de pepino y jitomate.
+Base: [falafel-garbanzo](../../../recipes/lego-meals/falafel-garbanzo/README.md).
 
-* Ella: 100 g chili + 2 tortillas + 30 g Oaxaca + lechuga. ~26 g
-* Él: 150 g chili + 3 tortillas + 50 g Oaxaca. ~36 g
-* Sartén 3 min por lado hasta fundir, ensalada al lado.
+* Ella: 4 falafel + 1 huevo (o 40 g pollo) + 50 g aderezo de yogur + ensalada + 1 tortilla. ~18 g prot | 13 g fibra
+* Él: 6 falafel + 2 huevos (o 60 g pollo) + 70 g aderezo de yogur + ensalada + 2 tortillas. ~26 g prot | 16 g fibra
+* Ninja Air Fryer a 195 °C 10 min directo del congelador.

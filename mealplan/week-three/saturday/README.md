@@ -1,36 +1,34 @@
-# Saturday
+# Saturday — Licuado Proteico, Bowl Mediterráneo & Noche de Nuggets + Tater Tots Air Fryer
 
-Total aprox: Ella ~115 g / Él ~160 g proteína. Cocina relajada 30 min.
+Total aprox (1.6 g/kg): Ella ~83 g prot, ~44 g fibra | Él ~115 g prot, ~55 g fibra.
 
-## Desayuno - casa, 15 min
+## Desayuno - casa, 1 min (licuadora)
 
-Avena overnight o caliente con toppings.
-La overnight se deja lista el viernes noche.
+Licuado proteico de plátano, avena, leche, yogur, crema de cacahuate y linaza.
 
-* Ella: 50 g avena + 200 g yogur + 1/2 plátano + 15 g cacahuate. ~24 g
-* Él: 80 g avena + 250 g yogur + 1 plátano + 30 g cacahuate. ~38 g
+* Ella: 250 ml leche + 80 g yogur + 45 g avena + 20 g crema de cacahuate + 1 cda linaza + 1/2 plátano. ~20 g prot | 10 g fibra
+* Él: 350 ml leche + 120 g yogur + 65 g avena + 35 g crema de cacahuate + 1 cda linaza + 1 plátano. ~28 g prot | 13 g fibra
 
-## Almuerzo - casa o fuera, sobras frío
+## Almuerzo - casa o fuera, frío
 
-Sobras de chili o albóndigas en frío con tostada.
-Bases: [chili-pavo-frijoles-negros](../../../recipes/lego-meals/chili-pavo-frijoles-negros/README.md), [albondigas-griegas](../../../recipes/lego-meals/albondigas-griegas/README.md).
+Tostadas de pollo en salsa verde o lentejas con requesón.
 
-* Ella: 250 g chili + 1 tostada + crema. ~24 g
-* Él: 350 g chili + 2 tostadas + crema + 30 g queso. ~34 g
+* Ella: 2 tortillas tostadas + 60 g pollo verde + 1/3 taza frijol + 20 g requesón. ~19 g prot | 10 g fibra
+* Él: 3 tortillas tostadas + 90 g pollo verde + 1/2 taza frijol + 30 g requesón. ~26 g prot | 14 g fibra
 
 ## Comida - casa, bowl 15 min
 
-Bowl de pavo + fajita mix + arroz cilantro.
-Bases: [fajita-mix-poblano](../../../recipes/lego-meals/fajita-mix-poblano/README.md), [arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md).
+Bowl Mediterráneo de albóndigas griegas (o barbacoa) + fajita mix + arroz enfriado RS3.
+Bases: [albondigas-griegas](../../../recipes/lego-meals/albondigas-griegas/README.md), [fajita-mix-poblano](../../../recipes/lego-meals/fajita-mix-poblano/README.md).
 
-* Ella: 130 g pavo (chili escurrido o pavo sazonado) + 1 taza fajita + 3/4 taza arroz. ~36 g
-* Él: 180 g pavo + 1.5 taza fajita + 1.25 taza arroz + 1 tortilla. ~50 g
-* Sartén 5 min para revivir fajita con limón.
+* Ella: 95 g proteína + 1 taza verdura salteada + 3/4 taza arroz RS3 + 1/3 taza frijol. ~25 g prot | 13 g fibra
+* Él: 135 g proteína + 1.5 taza verdura + 1 taza arroz RS3 + 1/2 taza frijol. ~34 g prot | 16 g fibra
 
-## Cena - casa, se cocina 30 min
+## Cena - casa, Ninja Air Fryer 12 min (Comfort Food saludable)
 
-Burgers de pavo al sartén + ensalada + papa Air Fryer.
+Nuggets caseros de pollo empanizados + Tater Tots caseros de papa directo del congelador al Air Fryer + ensalada fresca y salsa BBQ casera o yogur-chipotle.
+Bases: [nuggets-pollo-empanizados](../../../recipes/lego-meals/nuggets-pollo-empanizados/README.md) + [tater-tots-caseros](../../../recipes/lego-meals/tater-tots-caseros/README.md).
 
-* Ella: 1 burger 120 g + 1 pan/bollo + ensalada + 1/2 taza papa. ~30 g
-* Él: 1 burger 180 g doble o 2 chicos + 1 pan + ensalada + 1 taza papa. ~44 g
-* Sartén 5-6 min por lado, Air Fryer papa 200 °C 15 min.
+* Ella: 4 nuggets caseros + 1 porción tater tots + 1.5 taza ensalada repollo/zanahoria. ~20 g prot | 11 g fibra
+* Él: 6 nuggets caseros + 1.5 porción tater tots + 2 tazas ensalada. ~28 g prot | 14 g fibra
+* Ninja Air Fryer a 180-190 °C durante 10-12 min.

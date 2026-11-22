@@ -1,37 +1,35 @@
-# Thursday
+# Thursday — Pancakes de Harina de Avena, Gyro Bowl Griego & Tacos Árabes con Tzatziki
 
-Total aprox: Ella ~110 g / Él ~155 g proteína. Se cocina fresco 25 min.
+Total aprox (1.6 g/kg): Ella ~83 g prot, ~44 g fibra | Él ~115 g prot, ~55 g fibra.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 2 min (batch congelado → micro 90 s o Air Fryer 3 min)
 
-Egg bites de cottage y pavo + tortilla + fruta.
-Bites: [egg-bites-cottage-pavo](../../../recipes/lego-meals/egg-bites-cottage-pavo/README.md).
+Pancakes de harina de avena (hechos en batch el domingo y congelados) + yogur natural y plátano encima.
+Base: [pancakes-proteicos-avena-requeson](../../../recipes/lego-meals/pancakes-proteicos-avena-requeson/README.md).
 
-* Ella: 3 bites + 1 tortilla + 1/2 plátano. ~26 g
-* Él: 4 bites + 2 tortillas + 1 plátano. ~36 g
-* Micro 1 min o Air Fryer 180 °C 4 min.
+* Ella: 3 pancakes de harina de avena + 80 g yogur + 1/2 plátano + 1 cda linaza. ~20 g prot | 9 g fibra
+* Él: 4 pancakes de harina de avena + 120 g yogur + 1 plátano + 1 cda linaza. ~28 g prot | 12 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío/micro
 
-Cottage + huevo duro + energy ball.
+Requesón fresco + huevo duro de batch + energy ball.
 Balls: [energy-balls-cacahuate-proteina](../../../recipes/lego-meals/energy-balls-cacahuate-proteina/README.md).
 
-* Ella: 120 g cottage + 1 huevo duro + 1 ball + pepino. ~24 g
-* Él: 150 g cottage + 2 huevos duros + 2 balls. ~36 g
+* Ella: 70 g requesón + 1 huevo duro + 1 ball + pepino. ~18 g prot | 5 g fibra
+* Él: 100 g requesón + 2 huevos duros + 1 ball + pepino. ~26 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Bowl griego: albóndigas + fajita mix poblano + arroz.
+Gyro Bowl Mediterráneo: albóndigas griegas con menta y orégano + fajita mix + Base 50/50 (arroz RS3 + lenteja/frijol) + salsa tzatziki de yogur y pepino.
 Bases: [albondigas-griegas](../../../recipes/lego-meals/albondigas-griegas/README.md), [fajita-mix-poblano](../../../recipes/lego-meals/fajita-mix-poblano/README.md).
 
-* Ella: 4 albóndigas (~120 g) + 1 taza fajita mix + 3/4 taza arroz + 2 cda yogur. ~36 g
-* Él: 6 albóndigas (~180 g) + 1.5 taza fajita mix + 1.25 taza arroz + 1 tortilla. ~52 g
-* Micro 2:30 min, yogur Tzatziki después.
+* Ella: 3 albóndigas (~100 g) + 1 taza verdura salteada + 1/2 taza arroz RS3 + 1/2 taza lenteja/frijol + 2 cda tzatziki. ~27 g prot | 17 g fibra
+* Él: 5 albóndigas (~150 g) + 1.5 taza verdura + 3/4 taza arroz RS3 + 3/4 taza lenteja/frijol + tzatziki. ~37 g prot | 22 g fibra
+* Micro 2:30 min, agrega el tzatziki frío después.
 
-## Cena - casa, se cocina 25 min
+## Cena - casa, se cocina 15 min
 
-Albóndigas griegas al sartén + fajita mix + ensalada.
+Tacos Árabes / Gyros griegos: albóndigas griegas doradas al sartén envueltas en tortilla caliente con salsa tzatziki casera (yogur, pepino, ajo y limón), jitomate y cebolla morada.
 
-* Ella: 3 albóndigas + 1 taza fajita mix + ensalada + 1 tortilla. ~24 g
-* Él: 5 albóndigas + 1.5 taza fajita mix + ensalada + 2 tortillas. ~36 g
-* Sartén 8-10 min albóndigas + 5 min fajita a fuego alto.
+* Ella: 2 albóndigas partidas en 2 tortillas + tzatziki + ensalada pepino/nopal. ~18 g prot | 13 g fibra
+* Él: 3 albóndigas en 3 tortillas + tzatziki + ensalada. ~24 g prot | 16 g fibra

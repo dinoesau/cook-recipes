@@ -1,37 +1,33 @@
-# Tuesday
+# Tuesday — Bizcocho de Avena con Chispas, Pollo en Salsa Verde & Enchiladas Suizas
 
-Total aprox: Ella ~115 g / Él ~160 g proteína.
+Total aprox (1.6 g/kg): Ella ~81 g prot, ~45 g fibra | Él ~114 g prot, ~56 g fibra.
 
-## Desayuno - casa, rápido 10 min
+## Desayuno - casa, 5 min (horno / Air Fryer / micro)
 
-Molletes de frijol con Oaxaca + pico de gallo.
-Frijol: [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
+Bizcocho de avena exprés (*Baked Oats*): plátano triturado + huevo + harina de avena + leche + 1/2 cdta polvo para hornear + chispas de chocolate oscuro → 5 min al horno/Air Fryer a 190 °C (o 90-120 s al micro).
 
-* Ella: 1 bolillo + 1/2 taza frijol refrito + 40 g Oaxaca. ~24 g
-* Él: 1 bolillo + 1 huevo estrellado + 3/4 taza frijol + 60 g Oaxaca + 1 tortilla. ~38 g
-* Air Fryer 200 °C 5 min para gratinar.
+* Ella: 1 plátano triturado + 1 huevo + 50 g harina de avena + 80 ml leche + 10 g chispas de chocolate + 60 g yogur. ~19 g prot | 10 g fibra
+* Él: 1 plátano grande + 2 huevos + 70 g harina de avena + 100 ml leche + 15 g chispas de chocolate + 80 g yogur. ~28 g prot | 13 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Huevo duro + cottage + pepino/jitomate.
+Huevo duro de batch + requesón fresco + pepino/jitomate.
 
-* Ella: 2 huevos duros + 100 g cottage + verdura + 1 tostada. ~24 g
-* Él: 3 huevos duros + 150 g cottage + verdura + 1 tostada. ~36 g
-* Frío directo, sal y limón al momento.
+* Ella: 1 huevo duro + 70 g requesón + verdura + 1 tortilla tostada. ~17 g prot | 5 g fibra
+* Él: 2 huevos duros + 100 g requesón + verdura + 2 tortillas tostadas. ~25 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Pollo en salsa verde + frijol + arroz.
+Pollo braisado en salsa verde de tomatillo + Base 50/50 (frijol negro + arroz enfriado RS3).
 Bases: [pollo-salsa-verde](../../../recipes/lego-meals/pollo-salsa-verde/README.md), [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md), [arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md).
 
-* Ella: 130 g pollo verde + 1/2 taza frijol + 3/4 taza arroz. ~40 g
-* Él: 180 g pollo verde + 3/4 taza frijol + 1.25 taza arroz + 1 tortilla. ~55 g
-* Micro 2:30 min tapa floja, salsa extra aparte.
+* Ella: 100 g pollo verde + 1/2 taza frijol + 1/2 taza arroz RS3 + calabacita. ~27 g prot | 17 g fibra
+* Él: 140 g pollo verde + 3/4 taza frijol + 3/4 taza arroz RS3 + 1 tortilla. ~37 g prot | 22 g fibra
+* Micro 2:30 min tapa floja.
 
-## Cena - casa, se cocina 25 min
+## Cena - casa, Air Fryer 8 min
 
-Tacos dorados de pollo verde en Air Fryer + ensalada.
+Enchiladas verdes suizas (tortillas rellenas de pollo bañadas en salsa verde con toque de yogur y queso Oaxaca gratinado al Air Fryer) + ensalada de nopal.
 
-* Ella: 2 tortillas + 80 g pollo + 20 g crema + lechuga. ~26 g
-* Él: 3 tortillas + 120 g pollo + 30 g crema + lechuga. ~36 g
-* Air Fryer 200 °C 6-8 min, voltea a la mitad.
+* Ella: 2 enchiladas (50 g pollo) + salsa verde con yogur + 25 g Oaxaca + 1 taza nopal. ~18 g prot | 13 g fibra
+* Él: 3 enchiladas (75 g pollo) + salsa verde + 35 g Oaxaca + 1.5 taza nopal. ~24 g prot | 16 g fibra
