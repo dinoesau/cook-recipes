@@ -11,19 +11,19 @@ Parfait de yogur y frutos rojos: mete los frutos rojos congelados 45-60 s al mic
 
 ## Almuerzo - trabajo, tupper frío
 
-Panela/requesón + huevo duro de batch + tortillas tostadas + jitomate. Sin micro.
+*Whipped Requesón* Tzatziki-Hierbas + Panela + **Huevo marinado *Ajitsuke*** + tortillas tostadas y pepino. Sin micro.
 
-* Ella: 50 g panela + 1 huevo duro + 2 tortillas tostadas + jitomate/pepino. ~18 g prot | 5 g fibra
-* Él: 70 g panela + 2 huevos duros + 3 tortillas tostadas + verdura. ~27 g prot | 7 g fibra
+* Ella: 50 g panela/whipped requesón + 1 huevo *Ajitsuke* + 2 tortillas tostadas + jitomate/pepino. ~18 g prot | 5 g fibra
+* Él: 70 g panela/whipped requesón + 2 huevos *Ajitsuke* + 3 tortillas tostadas + verdura. ~27 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper micro
 
-Chile verde de cerdo en salsa de tomatillo + Base 50/50 (arroz enfriado RS3 + frijol negro).
+Chile verde de cerdo en salsa de tomatillo asado 8 min a 204 °C en Air Fryer + Base 50/50 Mexicana ([arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md) enfriado RS3 + frijol negro) + salsero frío de cebolla encurtida en limón.
 Base: [chile-verde-cerdo](../../../recipes/instant-pot/chile-verde-cerdo/README.md).
 
 * Ella: 100 g cerdo salsa verde + 1/2 taza arroz RS3 + 1/2 taza frijol + calabacita. ~26 g prot | 17 g fibra
 * Él: 140 g cerdo salsa verde + 3/4 taza arroz RS3 + 3/4 taza frijol + 1 tortilla. ~36 g prot | 22 g fibra
-* Micro 3 min.
+* Micro 3 min; corona con cebolla encurtida fría al servir.
 
 ## Cena - casa, horno o Air Fryer 15 min
 

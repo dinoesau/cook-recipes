@@ -18,12 +18,12 @@ Yogur natural + cacahuate + fruta + egg bite.
 
 ## Comida - trabajo, tupper grande micro
 
-Albóndigas mediterráneas de pollo al limón y orégano + Base 50/50 (arroz enfriado RS3 + frijol/lenteja) + calabacita.
-Base: [albondigas-pollo-limon](../../../recipes/lego-meals/albondigas-pollo-limon/README.md).
+Albóndigas mediterráneas de pollo al limón y orégano + **Base 50/50 Mediterránea** (Arroz al limón y orégano enfriado RS3 + lentejas/garbanzos al ajo, limón y perejil) + calabacita.
+Base: [albondigas-pollo-limon](../../../recipes/lego-meals/albondigas-pollo-limon/README.md) + [garbanzos-griegos](../../../recipes/instant-pot/garbanzos-griegos/README.md).
 
-* Ella: 3 albóndigas (~105 g) + 1/2 taza arroz RS3 + 1/2 taza frijol/lenteja + calabacita. ~27 g prot | 15 g fibra
-* Él: 5 albóndigas (~160 g) + 3/4 taza arroz RS3 + 3/4 taza frijol/lenteja + 1 tortilla. ~37 g prot | 20 g fibra
-* Micro 3 min con 1 cda agua, limón después.
+* Ella: 3 albóndigas (~105 g) + 1/2 taza arroz al limón RS3 + 1/2 taza lenteja/garbanzo al limón + calabacita. ~27 g prot | 15 g fibra
+* Él: 5 albóndigas (~160 g) + 3/4 taza arroz al limón RS3 + 3/4 taza lenteja/garbanzo + 1 tortilla. ~37 g prot | 20 g fibra
+* Micro 3 min con 1 cda agua, limón fresco y salsero de tzatziki después.
 
 ## Cena - casa, Air Fryer o sartén 12 min
 

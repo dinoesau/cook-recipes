@@ -11,19 +11,19 @@ Toast de huevo cocido triturado y semillas de chía: pan integral tostado + huev
 
 ## Almuerzo - trabajo, tupper frío
 
-Requesón fresco + fruta + cacahuate.
+*Whipped Requesón* Chipotle-Limón (requesón licuado 30 s el domingo con toque de leche/yogur, chipotle y limón) + fruta + cacahuate.
 
-* Ella: 100 g requesón + 1 manzana + 15 g cacahuate. ~17 g prot | 6 g fibra
-* Él: 140 g requesón + 1 manzana + 25 g cacahuate. ~24 g prot | 8 g fibra
+* Ella: 100 g whipped requesón + 1 manzana + 15 g cacahuate. ~17 g prot | 6 g fibra
+* Él: 140 g whipped requesón + 1 manzana + 25 g cacahuate. ~24 g prot | 8 g fibra
 
 ## Comida - trabajo, tupper micro
 
-Tinga de pollo al chipotle + Base 50/50 (arroz enfriado RS3 + frijol negro) + calabacita/repollo.
+Tinga de pollo al chipotle + Base 50/50 Mexicana ([arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md) enfriado RS3 + frijol negro de Souper Cubes) + calabacita/repollo + salsero frío de cebolla encurtida en limón.
 Base: [tinga-pollo](../../../recipes/lego-meals/tinga-pollo/README.md) + [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
 
 * Ella: 95 g tinga + 1/2 taza arroz RS3 + 1/2 taza frijol + 1 taza verdura. ~26 g prot | 17 g fibra
 * Él: 135 g tinga + 3/4 taza arroz RS3 + 3/4 taza frijol + 1.5 taza verdura. ~36 g prot | 22 g fibra
-* Micro 2:30 min + jugo de limón al servir.
+* Micro 2:30 min + añade la cebolla encurtida en limón fría del salsero al servir.
 
 ## Cena - casa, Air Fryer 10 min
 

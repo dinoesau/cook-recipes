@@ -2,13 +2,13 @@
 
 Total aprox (1.6 g/kg): Ella ~83 g prot, ~44 g fibra | Él ~116 g prot, ~55 g fibra.
 
-## Desayuno - casa, 2 min (batch congelado → micro 90 s o Air Fryer 3 min)
+## Desayuno - casa, 2 min (batch quincenal congelado → micro 90 s o Air Fryer 3 min)
 
-Pancakes de harina de avena (hechos en batch el domingo y congelados) + yogur natural y plátano encima.
+Sheet-Pan Pancakes de harina de avena (del mega-batch horneado en charola en Semana 1) + yogur natural y plátano encima.
 Base: [pancakes-proteicos-avena-requeson](../../../recipes/lego-meals/pancakes-proteicos-avena-requeson/README.md).
 
-* Ella: 3 pancakes de harina de avena + 80 g yogur + 1/2 plátano + 1 cda linaza. ~20 g prot | 10 g fibra
-* Él: 4 pancakes de harina de avena + 120 g yogur + 1 plátano + 1 cda linaza. ~28 g prot | 13 g fibra
+* Ella: 3 cuadros de sheet-pan pancake + 80 g yogur + 1/2 plátano + 1 cda linaza. ~20 g prot | 10 g fibra
+* Él: 4 cuadros de sheet-pan pancake + 120 g yogur + 1 plátano + 1 cda linaza. ~28 g prot | 13 g fibra
 
 ## Almuerzo - trabajo, tupper chico frío/micro
 
@@ -20,12 +20,12 @@ Bites: [egg-bites-queso-clasicos](../../../recipes/lego-meals/egg-bites-queso-cl
 
 ## Comida - trabajo, tupper grande micro
 
-Taco Bowl de cerdo magro y lenteja + Base 50/50 (arroz enfriado RS3 + frijol negro) + pico de gallo y repollo.
+Taco Bowl de cerdo magro y lenteja + Base 50/50 Mexicana ([arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md) enfriado RS3 + frijol negro de Souper Cubes) + pico de gallo, repollo y salsero frío de [crema-cilantro-mayo](../../../recipes/lego-meals/crema-cilantro-mayo/README.md) (versión yogur).
 Base: [pavo-molido-taco](../../../recipes/lego-meals/pavo-molido-taco/README.md) + [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
 
 * Ella: 100 g taco mix + 1/2 taza arroz RS3 + 1/2 taza frijol + 1 taza repollo/pico de gallo. ~27 g prot | 17 g fibra
 * Él: 140 g taco mix + 3/4 taza arroz RS3 + 3/4 taza frijol + 1 tortilla extra. ~38 g prot | 22 g fibra
-* Micro 2:30 min tapa floja + 1 cda agua + limón al servir.
+* Micro 2:30 min tapa floja + 1 cda agua; añade la crema de cilantro-yogur fría y limón después.
 
 ## Cena - casa, se cocina 15 min
 

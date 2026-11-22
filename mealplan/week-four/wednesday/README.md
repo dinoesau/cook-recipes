@@ -19,17 +19,17 @@ Granola: [granola-casera-airfryer](../../../recipes/lego-meals/granola-casera-ai
 
 ## Comida - trabajo, tupper grande micro
 
-Estofado clásico de res (chamberete) con lentejas, papa y zanahoria en Instant Pot + Base 50/50 (arroz enfriado RS3 + frijol negro).
+Estofado clásico Umami de res (chamberete cocinado el domingo con 1 cubo de [cubos-mirepoix](../../../recipes/lego-meals/cubos-mirepoix/README.md) caramelizado, pasta de tomate tostada, salsa de soya, lentejas, papa y zanahoria en Instant Pot) + Base 50/50 (arroz enfriado RS3 + frijol negro de Souper Cubes).
 Base: [estofado-res-cubos](../../../recipes/lego-meals/estofado-res-cubos/README.md) + [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md).
 
 * Ella: 120 g estofado res-lenteja + 1/2 taza arroz RS3 + 1/2 taza frijol + zanahoria. ~27 g prot | 17 g fibra
 * Él: 165 g estofado + 3/4 taza arroz RS3 + 3/4 taza frijol. ~37 g prot | 22 g fibra
 * Micro 3 min tapa floja.
 
-## Cena - casa, comal 12 min + refill
+## Cena - casa, comal 12 min + refill ligero 25 min
 
 ¡Regresan las Quesabirrias! Descongela los **2 Souper Cubes de Birria de Res con consomé** que guardaste en la Semana 1 ([birria-res](../../../recipes/instant-pot/birria-res/README.md)), dora tortillas con queso Oaxaca al comal y acompaña con nopal asado.
 
 * Ella: 2 quesabirrias (45 g birria + 25 g Oaxaca) + consomé caliente + 1 taza nopal. ~19 g prot | 12 g fibra
 * Él: 3 quesabirrias (70 g birria + 35 g Oaxaca) + consomé + 1.5 taza nopal. ~26 g prot | 15 g fibra
-* Noche de refill: mientras cenas, corre arrocera 2 tazas + Instant Pot estofado res-lenteja y curry para Jue-Vie.
+* Noche de refill ligero (25 min): como el estofado ya se hizo el domingo, hoy solo corres arrocera 2 tazas + [pollo-curry-rojo-coco](../../../recipes/lego-meals/pollo-curry-rojo-coco/README.md) para Jue-Vie.

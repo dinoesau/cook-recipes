@@ -11,10 +11,10 @@ Toast de huevo cocido triturado y semillas de chía: pan integral tostado + huev
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Requesón fresco + pepino/zanahoria + cacahuate y fruta.
+*Whipped Requesón* Chipotle-Limón (dip cremoso) + bastones de pepino/zanahoria + cacahuate y fruta.
 
-* Ella: 100 g requesón + pepino/jitomate + 15 g cacahuate + 1/2 manzana. ~17 g prot | 6 g fibra
-* Él: 140 g requesón + verdura + 25 g cacahuate + 1 manzana. ~24 g prot | 8 g fibra
+* Ella: 100 g whipped requesón + pepino/jitomate + 15 g cacahuate + 1/2 manzana. ~17 g prot | 6 g fibra
+* Él: 140 g whipped requesón + verdura + 25 g cacahuate + 1 manzana. ~24 g prot | 8 g fibra
 
 ## Comida - trabajo, tupper grande micro
 

@@ -11,19 +11,19 @@ Bizcocho de avena exprés (*Baked Oats*): plátano triturado + huevo + harina de
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Huevo duro de batch + requesón fresco + pepino/jitomate.
+**Huevo marinado *Ajitsuke*** (en soya-ajo-vinagre) de batch + *Whipped Requesón* Chipotle-Limón + pepino/jitomate.
 
-* Ella: 1 huevo duro + 70 g requesón + verdura + 1 tortilla tostada. ~17 g prot | 5 g fibra
-* Él: 2 huevos duros + 100 g requesón + verdura + 2 tortillas tostadas. ~25 g prot | 7 g fibra
+* Ella: 1 huevo *Ajitsuke* + 70 g whipped requesón + verdura + 1 tortilla tostada. ~17 g prot | 5 g fibra
+* Él: 2 huevos *Ajitsuke* + 100 g whipped requesón + verdura + 2 tortillas tostadas. ~25 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Pollo braisado en salsa verde de tomatillo + Base 50/50 (frijol negro + arroz enfriado RS3).
+Pollo braisado en salsa verde de tomatillo (con tomatillos y chiles asados 8 min a 204 °C en Air Fryer antes de la Instant Pot) + Base 50/50 Mexicana (frijol negro de Souper Cubes + [arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md) enfriado RS3) + cebolla encurtida en salsero frío.
 Bases: [pollo-salsa-verde](../../../recipes/lego-meals/pollo-salsa-verde/README.md), [frijoles-negros-olla](../../../recipes/lego-meals/frijoles-negros-olla/README.md), [arroz-cilantro-limon](../../../recipes/lego-meals/arroz-cilantro-limon/README.md).
 
 * Ella: 100 g pollo verde + 1/2 taza frijol + 1/2 taza arroz RS3 + calabacita. ~27 g prot | 17 g fibra
 * Él: 140 g pollo verde + 3/4 taza frijol + 3/4 taza arroz RS3 + 1 tortilla. ~37 g prot | 22 g fibra
-* Micro 2:30 min tapa floja.
+* Micro 2:30 min tapa floja + cebolla encurtida fría al servir.
 
 ## Cena - casa, Air Fryer 8 min
 

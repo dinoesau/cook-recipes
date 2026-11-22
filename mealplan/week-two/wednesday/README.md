@@ -18,12 +18,12 @@ Tostadas o wrap frío de taco mix + panela y pico de gallo.
 
 ## Comida - trabajo, tupper grande micro
 
-Pollo con Garbanzos Masala / Butter Chicken en Instant Pot + arroz enfriado RS3.
-Bases: [pollo-garbanzos-masala](../../../recipes/instant-pot/pollo-garbanzos-masala/README.md) / [butter-chicken](../../../recipes/instant-pot/butter-chicken/README.md).
+Pollo con Garbanzos Masala / Butter Chicken en Instant Pot + **Base 50/50 India** (Arroz *Jeera* al comino y cúrcuma enfriado RS3 + **Dal de lentejas al curry** o garbanzos).
+Bases: [pollo-garbanzos-masala](../../../recipes/instant-pot/pollo-garbanzos-masala/README.md) / [butter-chicken](../../../recipes/instant-pot/butter-chicken/README.md) + [sopa-lentejas-curry](../../../recipes/lego-meals/sopa-lentejas-curry/README.md).
 
-* Ella: 100 g pollo masala con 1/2 taza garbanzos en su salsa + 3/4 taza arroz RS3 + zanahoria/calabacita. ~26 g prot | 16 g fibra
-* Él: 140 g pollo masala con 3/4 taza garbanzos + 1 taza arroz RS3 + 1 tortilla. ~36 g prot | 21 g fibra
-* Micro 2:30 min, cilantro fresco encima.
+* Ella: 100 g pollo masala con garbanzos + 1/2 taza arroz *Jeera* RS3 + 1/2 taza Dal de lentejas al curry + zanahoria/calabacita. ~27 g prot | 17 g fibra
+* Él: 140 g pollo masala con garbanzos + 3/4 taza arroz *Jeera* RS3 + 3/4 taza Dal de lentejas + 1 tortilla. ~37 g prot | 22 g fibra
+* Micro 2:30 min, cilantro fresco y gotas de limón encima.
 
 ## Cena - casa, se cocina 15 min + refill
 

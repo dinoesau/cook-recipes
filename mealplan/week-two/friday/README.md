@@ -12,14 +12,14 @@ Base: [avena-manzana-canela](../../../recipes/lego-meals/avena-manzana-canela/RE
 
 ## Almuerzo - trabajo, tupper chico frío
 
-Huevo duro de batch + requesón fresco + tortillas tostadas y pepino.
+**Huevos marinados *Ajitsuke*** (en soya-ajo-vinagre) de batch + *Whipped Requesón* Tzatziki-Hierbas + tortillas tostadas y pepino.
 
-* Ella: 2 huevos + 60 g requesón + pepino + 1 tortilla tostada. ~20 g prot | 5 g fibra
-* Él: 2 huevos + 100 g requesón + pepino + 2 tortillas tostadas. ~26 g prot | 7 g fibra
+* Ella: 2 huevos *Ajitsuke* + 60 g whipped requesón + pepino + 1 tortilla tostada. ~20 g prot | 5 g fibra
+* Él: 2 huevos *Ajitsuke* + 100 g whipped requesón + pepino + 2 tortillas tostadas. ~26 g prot | 7 g fibra
 
 ## Comida - trabajo, tupper grande micro
 
-Burritos de res y frijol negro + arroz RS3 y pico de gallo.
+Burritos de res y frijol negro + arroz RS3, pico de gallo y salsero frío de [crema-cilantro-mayo](../../../recipes/lego-meals/crema-cilantro-mayo/README.md) (versión yogur).
 Base: [burritos-res-frijol](../../../recipes/lego-meals/burritos-res-frijol/README.md).
 
 * Ella: 1 burrito (~140 g relleno carne-frijol) + 1/2 taza arroz RS3 + ensalada repollo/jitomate. ~26 g prot | 16 g fibra

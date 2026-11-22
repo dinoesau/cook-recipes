@@ -20,17 +20,17 @@ Base: [cubos-smoothie-proteina](../../../recipes/lego-meals/cubos-smoothie-prote
 
 ## Comida - casa, olla 20 min
 
-Sopa de Tortilla con pollo deshebrado, frijol negro, calabaza/zanahoria y tiras de tortilla crujientes hechas en Air Fryer.
+Sopa de Tortilla en [caldo-de-pollo-blanco](../../../recipes/instant-pot/caldo-de-pollo-blanco/README.md) gelatinoso (hecho gratis con los huesos de la semana) con pollo deshebrado, frijol negro, calabaza/zanahoria y tiras de tortilla crujientes hechas en Air Fryer.
 Base: [sopa-tortilla-cubos](../../../recipes/lego-meals/sopa-tortilla-cubos/README.md).
 
 * Ella: 2 tazas sopa de tortilla + 75 g pollo + 1/3 taza frijol + 20 g panela + tiras de 1 tortilla Air Fryer. ~25 g prot | 15 g fibra
 * Él: 3 tazas sopa + 110 g pollo + 1/2 taza frijol + 30 g panela + tiras de 2 tortillas. ~35 g prot | 20 g fibra
 
-## Cena - casa + batch 90 min
+## Cena - casa + batch <75 min
 
 Egg bites + ensalada de nopal y frijol + arranca batch semana 3.
 Bites: [egg-bites-queso-clasicos](../../../recipes/lego-meals/egg-bites-queso-clasicos/README.md).
 
 * Ella: 2 bites + 1/2 taza frijol + ensalada nopal + 2 tortillas. ~18 g prot | 12 g fibra
 * Él: 3 bites + 3/4 taza frijol + nopal + 3 tortillas. ~25 g prot | 15 g fibra
-* Paralelo: Instant Pot barbacoa de chamberete + frijol, arrocera arroz, nuggets, tater tots y pancakes de harina de avena para congelador.
+* Paralelo (frijol y garbanzo griego se hicieron el sábado en la noche en cocción pasiva): Instant Pot barbacoa de chamberete, arrocera arroz, nuggets, tater tots y 2° tanda quincenal de sheet-pan pancakes en charola de horno de convección.

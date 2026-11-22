@@ -21,15 +21,15 @@ Yogur natural + huevo duro de batch + cacahuate.
 
 ## Comida - casa, olla 25 min
 
-Sopa Minestrone italiana: caldo de tomate y hierbas con frijol/garbanzo, pasta corta, zanahoria, calabacita, espinaca/repollo y pollo o res deshebrada.
+Sopa Minestrone italiana en [caldo-de-pollo-tostado](../../../recipes/instant-pot/caldo-de-pollo-tostado/README.md) gelatinoso (hecho gratis con los huesos del mes) con tomate, hierbas, cubo de mirepoix, frijol/garbanzo, pasta corta, zanahoria, calabacita, espinaca/repollo y pollo o res deshebrada.
 Base: [sopa-minestrone-cubos](../../../recipes/lego-meals/sopa-minestrone-cubos/README.md).
 
 * Ella: 2 tazas minestrone con 75 g proteína + 1/2 taza frijol/garbanzo + pasta. ~25 g prot | 15 g fibra
 * Él: 3 tazas minestrone con 110 g proteína + 3/4 taza frijol/garbanzo + pasta. ~35 g prot | 19 g fibra
 
-## Cena - casa, minestrone + batch mes siguiente
+## Cena - casa, minestrone + batch mes siguiente (<75 min)
 
-Repite Sopa Minestrone con queso gratinado y tostadas + arranca batch de `week-one`: **Birria de chamberete en Instant Pot**, pollo para tinga/taquitos, frijol negro, arroz en arrocera, papa con cáscara al Air Fryer, pancakes de harina de avena congelados y huevos duros.
+Repite Sopa Minestrone con queso gratinado y tostadas + arranca batch de `week-one` (el mega-batch quincenal de frijol negro en Souper Cubes se hizo el sábado en la noche): **Birria de chamberete en Instant Pot**, pollo para tinga/taquitos (guardando huesos y piel para caldo y schmaltz), arroz en arrocera, papa con cáscara al Air Fryer, **Sheet-Pan Pancakes quincenales** en charola de horno de convección, whipped requesón y huevos duros/*Ajitsuke* al vapor en estufa.
 
 * Ella: 1.5 taza minestrone + 60 g proteína + 1/3 taza frijol + 1 tostada. ~21 g prot | 14 g fibra
 * Él: 2 tazas minestrone + 90 g proteína + 1/2 taza frijol + 2 tostadas. ~27 g prot | 17 g fibra

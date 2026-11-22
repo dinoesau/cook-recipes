@@ -13,14 +13,14 @@ Parfait de yogur y frutos rojos tibios al microondas con granola (o Toast de hue
 
 ## Almuerzo - tupper frío
 
-Yogur natural + fruta + 1 huevo duro de batch + cacahuate.
+Yogur natural + fruta + 1 **Huevo marinado *Ajitsuke*** de batch + cacahuate.
 
-* Ella: 120 g yogur + 1 huevo duro + fruta + 15 g cacahuate. ~16 g prot | 6 g fibra
-* Él: 150 g yogur + 2 huevos duros + fruta + 20 g cacahuate. ~23 g prot | 8 g fibra
+* Ella: 120 g yogur + 1 huevo *Ajitsuke* + fruta + 15 g cacahuate. ~16 g prot | 6 g fibra
+* Él: 150 g yogur + 2 huevos *Ajitsuke* + fruta + 20 g cacahuate. ~23 g prot | 8 g fibra
 
 ## Comida - casa, Instant Pot 20 min
 
-Ajiaco / Estofado colombiano de pollo, papa y tomate en Instant Pot + arroz blanco y garbanzo/frijol.
+Ajiaco / Estofado colombiano de pollo, papa y tomate en Instant Pot (enriquecido con [caldo-de-pollo-blanco](../../../recipes/instant-pot/caldo-de-pollo-blanco/README.md) gelatinoso extraído de los huesos de la semana) + arroz blanco y garbanzo/frijol.
 Base: [ajiaco-pollo](../../../recipes/instant-pot/ajiaco-pollo/README.md).
 
 * Ella: 85 g pollo deshebrado en su caldo espeso de papa y tomate + 1/2 taza arroz + 1/3 taza garbanzo/frijol + cilantro. ~27 g prot | 15 g fibra
@@ -33,4 +33,4 @@ Egg bites de requesón recién horneados + ensalada de nopal y frijol + tortilla
 * Ella: 2 bites + 1/2 taza frijol + ensalada nopal + 2 tortillas tostadas. ~18 g prot | 12 g fibra
 * Él: 3 bites + 3/4 taza frijol + ensalada nopal + 3 tortillas tostadas. ~25 g prot | 15 g fibra
 
-Tarea noche: batch domingo de [week-two](../README.md) (taco mix, chili, falafel, pancakes de harina de avena congelados, huevos duros, cubos smoothie, arroz y papa).
+Tarea noche (<70 min, frijol y sheet-pan pancakes ya están en congelador): batch domingo de [week-two](../README.md) (taco mix, chili en IP, falafel, huevos duros/*Ajitsuke*, whipped requesón, cubos smoothie, arroz y papa).

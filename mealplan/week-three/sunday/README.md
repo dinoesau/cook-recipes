@@ -25,10 +25,10 @@ Base: [pho-ga](../../../recipes/instant-pot/pho-ga/README.md).
 * Ella: 400 ml caldo aromático + 80 g pollo deshebrado + 1/2 taza fideos/arroz + 1/3 taza garbanzo/edamame + repollo/cilantro/limón. ~26 g prot | 16 g fibra
 * Él: 500 ml caldo + 115 g pollo + 3/4 taza fideos/arroz + 1/2 taza garbanzo + verdura. ~36 g prot | 20 g fibra
 
-## Cena - casa + batch 90 min
+## Cena - casa + batch <70 min
 
 Egg bites de requesón + frijol negro + ensalada + arranca batch semana 4.
 
 * Ella: 2 bites + 40 g requesón + 1/3 taza frijol + 1 tortilla + verdura. ~20 g prot | 12 g fibra
 * Él: 3 bites + 60 g requesón + 1/2 taza frijol + 2 tortillas. ~27 g prot | 15 g fibra
-* En paralelo: Instant Pot frijol + garbanzo, arrocera arroz, Air Fryer granola/hashbrown, pancakes de harina de avena y egg-roll bowl asiático.
+* En paralelo (frijol, garbanzo y sheet-pan pancakes ya están listos en el congelador desde la tanda quincenal): Instant Pot estofado umami de chamberete con cubos de mirepoix, arrocera arroz, Air Fryer granola/hashbrown, egg-roll bowl asiático y aceite de jengibre-cebollín.
